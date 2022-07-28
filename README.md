@@ -23,6 +23,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 # Portfolio Screenshot & URL
 
-https://sramk87.github.io/challenge-2/  
+https://sramk87.github.io/sams-portfolio/  
 
 <img width="1439" alt="Screen Shot 2022-06-23 at 8 51 28 PM" src="https://user-images.githubusercontent.com/106551994/175438500-662965a0-2f51-4bb5-be67-dde8ff29e44e.png">
